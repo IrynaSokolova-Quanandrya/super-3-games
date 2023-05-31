@@ -1,21 +1,21 @@
 {
-  "name": "test-bundler",
+  "name": "super-3-games",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IrynaSokolova-Quanandrya.github.io/test-bundler",
+  "homepage": "https://IrynaSokolova-Quanandrya.github.io/super-3-games",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /test-bundler/"
+    "build": "parcel build src/*.html --public-url /super-3-games/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrynaSokolova-Quanandrya/test-bundler.git"
+    "url": "git+https://github.com/IrynaSokolova-Quanandrya/super-3-games.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrynaSokolova-Quanandrya/test-bundler/issues"
+    "url": "https://github.com/IrynaSokolova-Quanandrya/super-3-games/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
